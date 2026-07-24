@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋, I'm Meiyalaghan</h1>
+  <h1>👋, I'm Elakkiya</h1>
   <h3>💻 IT Student | 🎨 UI/UX Enthusiast | 🧪 Future Software Tester</h3>
 </p>
 
